@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  *  UCF COP3330 Summer 2021 Assignment 1 Solution
- *  Copyright 2021 first_name last_name
+  *  Copyright 2021 Ann Binus
 
 * Exercise 17 - Blood Alcohol Calculator
 Sometimes you have to perform a more complex calculation based on some provided inputs and then use that result to make a determination.
